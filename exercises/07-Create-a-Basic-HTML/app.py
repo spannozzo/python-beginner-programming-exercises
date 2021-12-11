@@ -11,6 +11,6 @@ h = '<body>'
 # ⬆ DON'T CHANGE THE CODE ABOVE ⬆
 # ↓ start coding below here ↓
 
-html_document = e + c + g + a + f + h + d + git b
+html_document = e + c + g + a + f + h + d + b
 
 print(html_document)
